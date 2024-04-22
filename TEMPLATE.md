@@ -1,8 +1,8 @@
-# Full Name 
+Ansam Naseeb 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+Myself  Ansam Naseeb and I am pursing my Bachelors of technology from UKF engineering college in CSE.As I am about to graduate I have spend my academic careeer  focusing on mastering both c and python.Throughout my degree program, I successfully completed a mini-project titled "Intelligent College Enquiry Chatbot." Despite having limited prior knowledge in natural language processing and artificial intelligence technologies, I rapidly acquired the necessary skills to develop this project within a short timeframe. Currently, I am passionately working on my main project, which involves creating an app for postpartum depression analysis and support. This journey showcases my ability to adapt quickly and learn new technologies efficiently.In addition to my academic projects, I have a keen interest in full-stack development. I find the process of creating both the frontend and backend components of web applications highly engaging."I've also begun studying AWS, which offers a comprehensive suite of cloud computing services for developing, deploying, and managing web applications."
 
 
 ## Portfolio Highlights
@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Intelligent College Enquiry Chatbot| Created an Intelligent College enquiry chatbot using artificial intelligence and machine learning algorithms.                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| App for Postpartum Depression Detection and Support | An App using react native for detecting the depression affected by mothers in their postpartum period and  providing 30 day tasks so that they can be relieved from depression state.            | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
